@@ -1,0 +1,22 @@
+.validator-error {
+    position: absolute;
+    top: 6px;
+    right: -16px;
+    color: red;
+}
+
+.form-generator .form-inline .form-group {
+    margin-bottom: 15px;
+}
+
+form .required {
+    color: red;
+}
+
+.form-control {
+    color: black;
+}
+
+.form-horizontal .control-label {
+    text-align: right;
+}
